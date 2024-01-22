@@ -1,0 +1,25 @@
+{
+	"folders": [
+		{
+			"path": "../react/myapp"
+		},
+		{
+			"path": "C:/Users/User/Downloads"
+		},
+		{
+			"path": "../scrambled/lastone"
+		},
+		{
+			"path": "../miniprojectstudentsphere"
+		},
+		{
+			"path": "../samyuktha0007"
+		},
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "parkinglot"
+	}
+}
